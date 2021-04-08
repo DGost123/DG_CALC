@@ -1,5 +1,12 @@
 # DG_CALC
 
+To run Test suite:
+
+    Select vykdyti1.jar;
+    Right-click the mouse and select "Open with";
+    Selelct "Java(TM)Platform SE binary";
+
+
 Test Suite consists of 3 test cases:
 
 When user fills "BUY" amount, "SELL" amount box is being emptied and vice versa;
