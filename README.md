@@ -1,5 +1,5 @@
 # DG_CALC
-
+TestNG in Eclipse for Selenium WebDriver was used for test cases and test suite creation and video recording;
 To run Test suite:
 
     Select vykdytiPAY.jar;
