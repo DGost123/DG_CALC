@@ -2,7 +2,7 @@
 
 To run Test suite:
 
-    Select vykdyti1.jar;
+    Select vykdytiPAY.jar;
     Right-click the mouse and select "Open with";
     Selelct "Java(TM)Platform SE binary";
 
